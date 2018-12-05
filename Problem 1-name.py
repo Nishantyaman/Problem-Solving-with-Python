@@ -1,3 +1,4 @@
+#https://www.hackerrank.com/contests/hourrank-30/challenges/video-conference
 from collections import defaultdict
 
 def solve(names):
